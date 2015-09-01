@@ -1,0 +1,57 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Germ\u00e1n Bobr",
+    "longName": "GTA V",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/gta_v_five_logo_v_only.png",
+                "menuIcon": true,
+                "name": "IMAGE_GTAVLOGO_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/michael.png",
+                "name": "IMAGE_MICHAEL_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "images/franklin.png",
+                "name": "IMAGE_FRANKLIN_IDENTIFIER",
+                "type": "png"
+            },
+            {
+                "file": "fonts/pricedown bl.ttf",
+                "name": "FONT_PRICEDOWN_22",
+                "trackingAdjust": 4,
+                "type": "font"
+            },
+            {
+                "file": "fonts/pricedown bl.ttf",
+                "name": "FONT_PRICEDOWN_44",
+                "trackingAdjust": 8,
+                "type": "font"
+            },
+            {
+                "file": "images/trevor.png",
+                "name": "IMAGE_TREVOR_IDENTIFIER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "GTA V",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "18c6c698-27fb-458b-a135-125815d0b553",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
